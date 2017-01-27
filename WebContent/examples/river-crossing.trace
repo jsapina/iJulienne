@@ -1,0 +1,7 @@
+{'`{_`}['__['c['right.Side],'g['left.Side],'s['left.Side],'w['left.Side]]],'State,crl '`{_`}['__['G:Group,'s['S:Side],'w[
+    'S:Side]]] => '`{_`}['__['s['change['S:Side]],'__['G:Group,'w['change['S:Side]]]]] if 'not_['toBeEaten['__['s['S:Side],'__[
+    'G:Group,'w['S:Side]]]]] = 'true.Bool [label('wolf)] .}
+{'`{_`}['__['c['right.Side],'g['left.Side],'s['right.Side],'w['right.Side]]],'State,crl '`{_`}['__['G:Group,'s['S:Side]]] => '`{_`}[
+    '__['G:Group,'s['change['S:Side]]]] if 'not_['toBeEaten['__['G:Group,'s['S:Side]]]] = 'true.Bool [label('shepherd)] .}
+{'`{_`}['__['c['right.Side],'g['left.Side],'s['left.Side],'w['right.Side]]],'State,rl '`{_`}['__['G:Group,'g['S:Side],'s['S:Side]]] =>
+    '`{_`}['__['s['change['S:Side]],'__['G:Group,'g['change['S:Side]]]]] [label('goat)] .}

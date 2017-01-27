@@ -1,0 +1,28 @@
+{'minmax['_;_['s_^4['0.Zero],'s_^7['0.Zero],'0.Zero]],'Pair,rl 'minmax['_;_['N:Nat,'L:List]] => 'PAIR['Min['N:Nat,'1st[
+    'minmax['L:List]]],'Max['N:Nat,'2nd['minmax['L:List]]]] [label('minmax2)] .}
+{'PAIR['Min['s_^4['0.Zero],'1st['minmax['_;_['s_^7['0.Zero],'0.Zero]]]],'Max['s_^4['0.Zero],'2nd['minmax['_;_['s_^7['0.Zero],
+    '0.Zero]]]]],'Pair,rl 'minmax['_;_['N:Nat,'L:List]] => 'PAIR['Min['N:Nat,'1st['minmax['L:List]]],'Max['N:Nat,'2nd['minmax[
+    'L:List]]]] [label('minmax2)] .}
+{'PAIR['Min['s_^4['0.Zero],'1st['PAIR['Min['s_^7['0.Zero],'1st['minmax['0.Zero]]],'Max['s_^7['0.Zero],'2nd['minmax['0.Zero]]]]]],'Max[
+    's_^4['0.Zero],'2nd['minmax['_;_['s_^7['0.Zero],'0.Zero]]]]],'Pair,rl '1st['PAIR['X:Nat,'Y:Nat]] => 'X:Nat [label('1st)] .}
+{'PAIR['Min['s_^4['0.Zero],'Min['s_^7['0.Zero],'1st['minmax['0.Zero]]]],'Max['s_^4['0.Zero],'2nd['minmax['_;_['s_^7['0.Zero],
+    '0.Zero]]]]],'Pair,rl 'minmax['_;_['N:Nat,'L:List]] => 'PAIR['Min['N:Nat,'1st['minmax['L:List]]],'Max['N:Nat,'2nd['minmax[
+    'L:List]]]] [label('minmax2)] .}
+{'PAIR['Min['s_^4['0.Zero],'Min['s_^7['0.Zero],'1st['minmax['0.Zero]]]],'Max['s_^4['0.Zero],'2nd['PAIR['Min['s_^7['0.Zero],'1st[
+    'minmax['0.Zero]]],'Max['s_^7['0.Zero],'2nd['minmax['0.Zero]]]]]]],'Pair,rl '2nd['PAIR['X:Nat,'Y:Nat]] => 'Y:Nat [label('2nd)] .}
+{'PAIR['Min['s_^4['0.Zero],'Min['s_^7['0.Zero],'1st['minmax['0.Zero]]]],'Max['s_^4['0.Zero],'Max['s_^7['0.Zero],'2nd['minmax[
+    '0.Zero]]]]],'Pair,rl 'minmax['N:Nat] => 'PAIR['N:Nat,'N:Nat] [label('minmax1)] .}
+{'PAIR['Min['s_^4['0.Zero],'Min['s_^7['0.Zero],'1st['PAIR['0.Zero,'0.Zero]]]],'Max['s_^4['0.Zero],'Max['s_^7['0.Zero],'2nd['minmax[
+    '0.Zero]]]]],'Pair,rl '1st['PAIR['X:Nat,'Y:Nat]] => 'X:Nat [label('1st)] .}
+{'PAIR['Min['s_^4['0.Zero],'Min['s_^7['0.Zero],'0.Zero]],'Max['s_^4['0.Zero],'Max['s_^7['0.Zero],'2nd['minmax['0.Zero]]]]],'Pair,crl
+    'Min['X:Nat,'Y:Nat] => 'Y:Nat if '_>_['X:Nat,'Y:Nat] = 'true.Bool [label('Min1)] .}
+{'PAIR['Min['s_^4['0.Zero],'0.Zero],'Max['s_^4['0.Zero],'Max['s_^7['0.Zero],'2nd['minmax['0.Zero]]]]],'Pair,crl 'Min['X:Nat,'Y:Nat] =>
+    'Y:Nat if '_>_['X:Nat,'Y:Nat] = 'true.Bool [label('Min1)] .}
+{'PAIR['0.Zero,'Max['s_^4['0.Zero],'Max['s_^7['0.Zero],'2nd['minmax['0.Zero]]]]],'Pair,rl 'minmax['N:Nat] => 'PAIR['N:Nat,'N:Nat] [
+    label('minmax1)] .}
+{'PAIR['0.Zero,'Max['s_^4['0.Zero],'Max['s_^7['0.Zero],'2nd['PAIR['0.Zero,'0.Zero]]]]],'Pair,rl '2nd['PAIR['X:Nat,'Y:Nat]] => 'Y:Nat [
+    label('2nd)] .}
+{'PAIR['0.Zero,'Max['s_^4['0.Zero],'Max['s_^7['0.Zero],'0.Zero]]],'Pair,crl 'Max['X:Nat,'Y:Nat] => 'X:Nat if '_>=_['X:Nat,'Y:Nat] =
+    'true.Bool [label('Max1)] .}
+{'PAIR['0.Zero,'Max['s_^4['0.Zero],'s_^7['0.Zero]]],'Pair,crl 'Max['X:Nat,'Y:Nat] => 'Y:Nat if '_<_['X:Nat,'Y:Nat] = 'true.Bool [label(
+    'Max2)] .}

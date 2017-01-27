@@ -1,0 +1,15 @@
+{'<_`,_`,_`,_`,_`,_>['idle.Sender,'false.Bool,'nil.MsgL,'nil.MsgL,'false.Bool,'wait.Receiver],'Conf,rl '<_`,_`,_`,_`,_`,_>[
+    'idle.Sender,'A:Bool,'nil.MsgL,'nil.MsgL,'false.Bool,'R:Receiver] => '<_`,_`,_`,_`,_`,_>['set['first.Msg],'false.Bool,'nil.MsgL,'nil.MsgL,
+    'false.Bool,'R:Receiver] [label('req)] .}
+{'<_`,_`,_`,_`,_`,_>['snd['first.Msg],'false.Bool,'first.Msg,'nil.MsgL,'false.Bool,'wait.Receiver],'Conf,crl '<_`,_`,_`,_`,_`,_>['S:Sender,
+    'false.Bool,'_;_['M:Msg,'K:MsgL],'L:MsgL,'T:Bool,'R:Receiver] => '<_`,_`,_`,_`,_`,_>['S:Sender,'false.Bool,'K:MsgL,'_;_['L:MsgL,'M:Msg],'B:Bool,
+    'rec['M:Msg]] if '_=/=_['R:Receiver,'rec['M:Msg]] = 'true.Bool /\ 'B:Bool := 'if_then_else_fi['_==_['M:Msg,'first.Msg],'true.Bool,'T:Bool] [
+    label('rec)] .}
+{'<_`,_`,_`,_`,_`,_>['snd['first.Msg],'false.Bool,'nil.MsgL,'first.Msg,'true.Bool,'rec['first.Msg]],'Conf,crl '<_`,_`,_`,_`,_`,_>['snd['M:Msg],
+    'A:Bool,'K:MsgL,'_;_['M':Msg,'L:MsgL],'T:Bool,'R:Receiver] => '<_`,_`,_`,_`,_`,_>['S:Sender,'A:Bool,'K:MsgL,'L:MsgL,'T:Bool,'R:Receiver] if
+    'S:Sender := 'if_then_else_fi['_==_['M:Msg,'M':Msg],'acc['M:Msg],'snd['M:Msg]] [label('acc)] .}
+{'<_`,_`,_`,_`,_`,_>['acc['first.Msg],'false.Bool,'nil.MsgL,'nil.MsgL,'true.Bool,'rec['first.Msg]],'Conf,rl 'acc['first.Msg] => 'set['0.Msg] [label(
+    'sel1)] .}
+{'<_`,_`,_`,_`,_`,_>['snd['0.Msg],'false.Bool,'0.Msg,'nil.MsgL,'true.Bool,'rec['first.Msg]],'Conf,crl '<_`,_`,_`,_`,_`,_>['S:Sender,'false.Bool,'_;_[
+    'M:Msg,'K:MsgL],'L:MsgL,'T:Bool,'R:Receiver] => '<_`,_`,_`,_`,_`,_>['S:Sender,'false.Bool,'K:MsgL,'_;_['L:MsgL,'M:Msg],'B:Bool,'rec['M:Msg]] if
+    '_=/=_['R:Receiver,'rec['M:Msg]] = 'true.Bool /\ 'B:Bool := 'if_then_else_fi['_==_['M:Msg,'first.Msg],'true.Bool,'T:Bool] [label('rec)] .}

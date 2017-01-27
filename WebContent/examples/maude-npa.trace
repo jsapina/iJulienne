@@ -1,0 +1,182 @@
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'nil.SMsgList-L,'_`,_['+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['-`(_`)['pk[
+    'a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],'_`,_['+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]]],'::_::`[_|_`][
+    'c1.Fresh,'nil.SMsgList-L,'_`,_['-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n[
+    'b.Name,'c1.Fresh]]]],'_`,_['-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)[
+    '_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_`,_['+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    'nil.SMsgList-L,'_`,_['-`(_`)['n['b.Name,'c1.Fresh]],'_`,_['+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'nil.SMsgList-R]]],
+    '::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]]],
+    '_`,_['_!inI['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_!inI['n['b.Name,'c1.Fresh]],'_!inI['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],
+    '_!inI['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_!inI['pk['b.Name,'n['b.Name,'c1.Fresh]]],'_!inI['pk['i.Name,'_;_['a.Name,'n['a.Name,
+    'c0.Fresh]]]],'_!inI['pk['i.Name,'n['b.Name,'c1.Fresh]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_[
+    '+`(_`)['M:Msg],'L2:SMsgList-R]]],'_`,_['K:IntruderKnowledge,'_!inI['M:Msg]]] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_[
+    'L1:SMsgList-L,'+`(_`)['M:Msg]],'L2:SMsgList-R]],'_`,_['K:IntruderKnowledge,'_inI['M:Msg]]] [label('acceptOutput2)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'_`,_['-`(_`)['pk['a.Name,'_;_['n[
+    'a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],'_`,_['+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['c1.Fresh,
+    'nil.SMsgList-L,'_`,_['-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,
+    'c1.Fresh]]]],'_`,_['-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['_;_[
+    'a.Name,'n['a.Name,'c0.Fresh]]],'_`,_['+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    'nil.SMsgList-L,'_`,_['-`(_`)['n['b.Name,'c1.Fresh]],'_`,_['+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'nil.SMsgList-R]]],
+    '::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]]],
+    '_`,_['_!inI['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_!inI['n['b.Name,'c1.Fresh]],'_!inI['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],
+    '_!inI['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_!inI['pk['b.Name,'n['b.Name,'c1.Fresh]]],'_!inI['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_inI[
+    'pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['-`(_`)[
+    'M:Msg],'L2:SMsgList-R]]],'K:IntruderKnowledge] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,'-`(_`)['M:Msg]],
+    'L2:SMsgList-R]],'K:IntruderKnowledge] [label('acceptInput)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'-`(_`)['pk['a.Name,'_;_['n[
+    'a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],'_`,_['+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]],'::_::`[_|_`]['c1.Fresh,
+    'nil.SMsgList-L,'_`,_['-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,
+    'c1.Fresh]]]],'_`,_['-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['_;_[
+    'a.Name,'n['a.Name,'c0.Fresh]]],'_`,_['+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    'nil.SMsgList-L,'_`,_['-`(_`)['n['b.Name,'c1.Fresh]],'_`,_['+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'nil.SMsgList-R]]],
+    '::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]]],
+    '_`,_['_!inI['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_!inI['n['b.Name,'c1.Fresh]],'_!inI['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],
+    '_!inI['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_!inI['pk['b.Name,'n['b.Name,'c1.Fresh]]],'_!inI['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_inI[
+    'pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['+`(_`)[
+    'M:Msg],'L2:SMsgList-R]]],'_`,_['K:IntruderKnowledge,'_!inI['M:Msg]]] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,
+    '+`(_`)['M:Msg]],'L2:SMsgList-R]],'_`,_['K:IntruderKnowledge,'_inI['M:Msg]]] [label('acceptOutput2)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['_`,_['_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'-`(_`)['pk['a.Name,'_;_[
+    'n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],'+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['c1.Fresh,'nil.SMsgList-L,
+    '_`,_['-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],'_`,_[
+    '-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['_;_['a.Name,'n['a.Name,
+    'c0.Fresh]]],'_`,_['+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_[
+    '-`(_`)['n['b.Name,'c1.Fresh]],'_`,_['+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_[
+    '-`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`][
+    'nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]]],'_`,_['_!inI[
+    '_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_!inI['n['b.Name,'c1.Fresh]],'_!inI['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],'_!inI['pk[
+    'b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_!inI['pk['b.Name,'n['b.Name,'c1.Fresh]]],'_inI['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_inI[
+    'pk['i.Name,'n['b.Name,'c1.Fresh]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['-`(_`)['M:Msg],
+    'L2:SMsgList-R]]],'K:IntruderKnowledge] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,'-`(_`)['M:Msg]],'L2:SMsgList-R]],
+    'K:IntruderKnowledge] [label('acceptInput)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['_`,_['_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'-`(_`)['pk['a.Name,'_;_[
+    'n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],'+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['c1.Fresh,'_`,_[
+    'nil.SMsgList-L,'-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'_`,_['+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,
+    'c1.Fresh]]]],'_`,_['-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['_;_[
+    'a.Name,'n['a.Name,'c0.Fresh]]],'_`,_['+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    'nil.SMsgList-L,'_`,_['-`(_`)['n['b.Name,'c1.Fresh]],'_`,_['+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'nil.SMsgList-R]]],
+    '::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]]],
+    '_`,_['_!inI['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_!inI['n['b.Name,'c1.Fresh]],'_!inI['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],
+    '_!inI['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_!inI['pk['b.Name,'n['b.Name,'c1.Fresh]]],'_inI['pk['i.Name,'_;_['a.Name,'n['a.Name,
+    'c0.Fresh]]]],'_inI['pk['i.Name,'n['b.Name,'c1.Fresh]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['+`(_`)[
+    'M:Msg],'L2:SMsgList-R]]],'_`,_['K:IntruderKnowledge,'_!inI['M:Msg]]] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,
+    '+`(_`)['M:Msg]],'L2:SMsgList-R]],'_`,_['K:IntruderKnowledge,'_inI['M:Msg]]] [label('acceptOutput2)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['_`,_['_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'-`(_`)['pk['a.Name,'_;_[
+    'n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],'+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['c1.Fresh,'_`,_['_`,_[
+    'nil.SMsgList-L,'-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],
+    '_`,_['-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['_;_['a.Name,'n['a.Name,
+    'c0.Fresh]]],'_`,_['+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_[
+    '-`(_`)['n['b.Name,'c1.Fresh]],'_`,_['+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_[
+    '-`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`][
+    'nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]]],'_`,_['_!inI[
+    '_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_!inI['n['b.Name,'c1.Fresh]],'_!inI['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_!inI['pk['b.Name,'n[
+    'b.Name,'c1.Fresh]]],'_inI['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],'_inI['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],
+    '_inI['pk['i.Name,'n['b.Name,'c1.Fresh]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['-`(_`)['M:Msg],
+    'L2:SMsgList-R]]],'K:IntruderKnowledge] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,'-`(_`)['M:Msg]],'L2:SMsgList-R]],
+    'K:IntruderKnowledge] [label('acceptInput)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['_`,_['_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'-`(_`)['pk['a.Name,'_;_[
+    'n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],'+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['c1.Fresh,'_`,_['_`,_[
+    '_`,_['nil.SMsgList-L,'-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,
+    'c1.Fresh]]]]],'-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['_;_['a.Name,'n[
+    'a.Name,'c0.Fresh]]],'_`,_['+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,
+    '_`,_['-`(_`)['n['b.Name,'c1.Fresh]],'_`,_['+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,
+    '_`,_['-`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`][
+    'nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]]],'_`,_['_!inI[
+    '_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_!inI['n['b.Name,'c1.Fresh]],'_!inI['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_!inI['pk['b.Name,'n[
+    'b.Name,'c1.Fresh]]],'_inI['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],'_inI['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],
+    '_inI['pk['i.Name,'n['b.Name,'c1.Fresh]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['-`(_`)['M:Msg],
+    'L2:SMsgList-R]]],'K:IntruderKnowledge] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,'-`(_`)['M:Msg]],'L2:SMsgList-R]],
+    'K:IntruderKnowledge] [label('acceptInput)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['_`,_['_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'-`(_`)['pk['a.Name,'_;_[
+    'n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],'+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['c1.Fresh,'_`,_['_`,_[
+    '_`,_['nil.SMsgList-L,'-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,
+    'c1.Fresh]]]]],'-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['n['b.Name,
+    'c1.Fresh]],'_`,_['+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,
+    '_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    '_`,_['nil.SMsgList-L,'-`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'nil.SMsgList-R]]],
+    '_`,_['_!inI['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_!inI['n['b.Name,'c1.Fresh]],'_!inI['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_!inI['pk[
+    'b.Name,'n['b.Name,'c1.Fresh]]],'_inI['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],'_inI['pk['i.Name,'_;_['a.Name,'n['a.Name,
+    'c0.Fresh]]]],'_inI['pk['i.Name,'n['b.Name,'c1.Fresh]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['+`(_`)[
+    'M:Msg],'L2:SMsgList-R]]],'_`,_['K:IntruderKnowledge,'_!inI['M:Msg]]] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,
+    '+`(_`)['M:Msg]],'L2:SMsgList-R]],'_`,_['K:IntruderKnowledge,'_inI['M:Msg]]] [label('acceptOutput2)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['_`,_['_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'-`(_`)['pk['a.Name,'_;_[
+    'n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],'+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['c1.Fresh,'_`,_['_`,_[
+    '_`,_['nil.SMsgList-L,'-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,
+    'c1.Fresh]]]]],'-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['n['b.Name,
+    'c1.Fresh]],'_`,_['+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,
+    '_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    '_`,_['_`,_['nil.SMsgList-L,'-`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'nil.SMsgList-R]],
+    '_`,_['_!inI['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_!inI['n['b.Name,'c1.Fresh]],'_!inI['pk['b.Name,'n['b.Name,'c1.Fresh]]],'_inI['pk['a.Name,'_;_['n[
+    'a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],'_inI['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_inI['pk['i.Name,'_;_['a.Name,'n['a.Name,
+    'c0.Fresh]]]],'_inI['pk['i.Name,'n['b.Name,'c1.Fresh]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['-`(_`)[
+    'M:Msg],'L2:SMsgList-R]]],'K:IntruderKnowledge] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,'-`(_`)['M:Msg]],
+    'L2:SMsgList-R]],'K:IntruderKnowledge] [label('acceptInput)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['_`,_['_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'-`(_`)['pk['a.Name,'_;_[
+    'n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],'+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['c1.Fresh,'_`,_['_`,_[
+    '_`,_['nil.SMsgList-L,'-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,
+    'c1.Fresh]]]]],'-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,
+    '_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    '_`,_['nil.SMsgList-L,'-`(_`)['n['b.Name,'c1.Fresh]]],'_`,_['+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]],'nil.SMsgList-R]],'::_::`[_|_`]['nil.FreshSet,
+    '_`,_['_`,_['nil.SMsgList-L,'-`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'nil.SMsgList-R]],
+    '_`,_['_!inI['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_!inI['n['b.Name,'c1.Fresh]],'_!inI['pk['b.Name,'n['b.Name,'c1.Fresh]]],'_inI['pk['a.Name,'_;_['n[
+    'a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],'_inI['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_inI['pk['i.Name,'_;_['a.Name,'n['a.Name,
+    'c0.Fresh]]]],'_inI['pk['i.Name,'n['b.Name,'c1.Fresh]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['+`(_`)[
+    'M:Msg],'L2:SMsgList-R]]],'_`,_['K:IntruderKnowledge,'_!inI['M:Msg]]] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,
+    '+`(_`)['M:Msg]],'L2:SMsgList-R]],'_`,_['K:IntruderKnowledge,'_inI['M:Msg]]] [label('acceptOutput2)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['_`,_['_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'-`(_`)['pk['a.Name,'_;_[
+    'n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],'+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['c1.Fresh,'_`,_['_`,_[
+    '_`,_['nil.SMsgList-L,'-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,
+    'c1.Fresh]]]]],'-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,
+    '_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_`,_['+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,
+    '_`,_['_`,_['nil.SMsgList-L,'-`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'nil.SMsgList-R],
+    '::_::`[_|_`]['nil.FreshSet,'_`,_['_`,_['nil.SMsgList-L,'-`(_`)['n['b.Name,'c1.Fresh]]],'+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R]],
+    '_`,_['_!inI['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_!inI['n['b.Name,'c1.Fresh]],'_inI['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],
+    '_inI['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_inI['pk['b.Name,'n['b.Name,'c1.Fresh]]],'_inI['pk['i.Name,'_;_['a.Name,'n['a.Name,
+    'c0.Fresh]]]],'_inI['pk['i.Name,'n['b.Name,'c1.Fresh]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['-`(_`)[
+    'M:Msg],'L2:SMsgList-R]]],'K:IntruderKnowledge] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,'-`(_`)['M:Msg]],
+    'L2:SMsgList-R]],'K:IntruderKnowledge] [label('acceptInput)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['_`,_['_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'-`(_`)['pk['a.Name,'_;_[
+    'n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],'+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['c1.Fresh,'_`,_['_`,_[
+    '_`,_['nil.SMsgList-L,'-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,
+    'c1.Fresh]]]]],'-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n[
+    'b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,'_`,_['nil.SMsgList-L,'-`(_`)['pk['i.Name,
+    '_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'_`,_['+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'nil.SMsgList-R]],'::_::`[_|_`]['nil.FreshSet,'_`,_['_`,_[
+    'nil.SMsgList-L,'-`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'nil.SMsgList-R],
+    '::_::`[_|_`]['nil.FreshSet,'_`,_['_`,_['nil.SMsgList-L,'-`(_`)['n['b.Name,'c1.Fresh]]],'+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R]],
+    '_`,_['_!inI['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_!inI['n['b.Name,'c1.Fresh]],'_inI['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],
+    '_inI['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_inI['pk['b.Name,'n['b.Name,'c1.Fresh]]],'_inI['pk['i.Name,'_;_['a.Name,'n['a.Name,
+    'c0.Fresh]]]],'_inI['pk['i.Name,'n['b.Name,'c1.Fresh]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['+`(_`)[
+    'M:Msg],'L2:SMsgList-R]]],'_`,_['K:IntruderKnowledge,'_!inI['M:Msg]]] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,
+    '+`(_`)['M:Msg]],'L2:SMsgList-R]],'_`,_['K:IntruderKnowledge,'_inI['M:Msg]]] [label('acceptOutput2)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['_`,_['_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'-`(_`)['pk['a.Name,'_;_[
+    'n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],'+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['c1.Fresh,'_`,_['_`,_[
+    '_`,_['nil.SMsgList-L,'-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,
+    'c1.Fresh]]]]],'-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['nil.FreshSet,'nil.SMsgList-L,'_`,_['-`(_`)['pk['i.Name,'n[
+    'b.Name,'c1.Fresh]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]]],'::_::`[_|_`]['nil.FreshSet,'_`,_['_`,_['nil.SMsgList-L,'-`(_`)['_;_[
+    'a.Name,'n['a.Name,'c0.Fresh]]]],'+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'nil.SMsgList-R],'::_::`[_|_`]['nil.FreshSet,'_`,_['_`,_[
+    'nil.SMsgList-L,'-`(_`)['n['b.Name,'c1.Fresh]]],'+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['nil.FreshSet,'_`,_['_`,_[
+    'nil.SMsgList-L,'-`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'nil.SMsgList-R]],'_`,_[
+    '_!inI['n['b.Name,'c1.Fresh]],'_inI['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_inI['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],'_inI[
+    'pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_inI['pk['b.Name,'n['b.Name,'c1.Fresh]]],'_inI['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],
+    '_inI['pk['i.Name,'n['b.Name,'c1.Fresh]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['-`(_`)['M:Msg],
+    'L2:SMsgList-R]]],'K:IntruderKnowledge] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,'-`(_`)['M:Msg]],'L2:SMsgList-R]],
+    'K:IntruderKnowledge] [label('acceptInput)] .}
+{'_||_['_&_['::_::`[_|_`]['c0.Fresh,'_`,_['_`,_['_`,_['nil.SMsgList-L,'+`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'-`(_`)['pk['a.Name,'_;_[
+    'n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]]],'+`(_`)['pk['i.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['c1.Fresh,'_`,_['_`,_[
+    '_`,_['nil.SMsgList-L,'-`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'+`(_`)['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,
+    'c1.Fresh]]]]],'-`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['nil.FreshSet,'_`,_['nil.SMsgList-L,'-`(_`)['pk['i.Name,'n[
+    'b.Name,'c1.Fresh]]]],'_`,_['+`(_`)['n['b.Name,'c1.Fresh]],'nil.SMsgList-R]],'::_::`[_|_`]['nil.FreshSet,'_`,_['_`,_['nil.SMsgList-L,'-`(_`)['_;_[
+    'a.Name,'n['a.Name,'c0.Fresh]]]],'+`(_`)['pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'nil.SMsgList-R],'::_::`[_|_`]['nil.FreshSet,'_`,_['_`,_[
+    'nil.SMsgList-L,'-`(_`)['n['b.Name,'c1.Fresh]]],'+`(_`)['pk['b.Name,'n['b.Name,'c1.Fresh]]]],'nil.SMsgList-R],'::_::`[_|_`]['nil.FreshSet,'_`,_['_`,_[
+    'nil.SMsgList-L,'-`(_`)['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]]],'+`(_`)['_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'nil.SMsgList-R]],'_`,_[
+    '_!inI['n['b.Name,'c1.Fresh]],'_inI['_;_['a.Name,'n['a.Name,'c0.Fresh]]],'_inI['pk['a.Name,'_;_['n['a.Name,'c0.Fresh],'n['b.Name,'c1.Fresh]]]],'_inI[
+    'pk['b.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],'_inI['pk['b.Name,'n['b.Name,'c1.Fresh]]],'_inI['pk['i.Name,'_;_['a.Name,'n['a.Name,'c0.Fresh]]]],
+    '_inI['pk['i.Name,'n['b.Name,'c1.Fresh]]]]],'System,rl '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'L1:SMsgList-L,'_`,_['+`(_`)['M:Msg],
+    'L2:SMsgList-R]]],'_`,_['K:IntruderKnowledge,'_!inI['M:Msg]]] => '_||_['_&_['SS:StrandSet,'::_::`[_|_`]['rrL:FreshSet,'_`,_['L1:SMsgList-L,'+`(_`)[
+    'M:Msg]],'L2:SMsgList-R]],'_`,_['K:IntruderKnowledge,'_inI['M:Msg]]] [label('acceptOutput2)] .}

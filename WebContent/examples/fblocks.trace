@@ -1,0 +1,9 @@
+{'_&_['empty.Prop,'clear['a.Block],'clear['b.Block],'clear[
+    'c.Block],'table['a.Block],'table['b.Block],'table['c.Block]],'State,rl
+    '_&_['clear['X:Block],'table['X:Block]] => 'hold['X:Block] [label('pickup)]
+    .}
+{'_&_['empty.Prop,'clear['b.Block],'clear['c.Block],'hold['a.Block],'table[
+    'b.Block],'table['c.Block]],'State,crl '_&_['clear['Y:Block],'hold[
+    'X:Block]] => '_&_['empty.Prop,'_&_['clear['X:Block],'on['X:Block,
+    'Y:Block]]] if '_<_['size['X:Block],'size['Y:Block]] = 'true.Bool [label(
+    'stack)] .}
