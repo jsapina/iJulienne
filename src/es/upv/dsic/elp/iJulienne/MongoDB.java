@@ -40,8 +40,8 @@ public class MongoDB {
 		catch (UnknownHostException e) { return null; }
 		
 		db = mongo.getDB("ijulienne");
-		//WARNING: Configure with your own data
-        boolean auth = db.authenticate("YOUR_USER", "YOUR_PASSWORD".toCharArray());
+        //WARNING: Configure with your own data
+		boolean auth = db.authenticate("YOUR_USER", "YOUR_PASSWORD".toCharArray());
 		if (auth){
 			DBCollection table = db.getCollection("ijulienne");
 			BasicDBObject searchQuery = new BasicDBObject();
@@ -59,13 +59,13 @@ public class MongoDB {
 		MongoClient mongo;
 		DB db;
 		
-        //WARNING: Configure with your own data
+		//WARNING: Configure with your own data
 		try { mongo = new MongoClient("YOUR_SERVER_ADDRESS",YOUR_SERVER_PORT); }
 		catch (UnknownHostException e) { return; }
 		
 		db = mongo.getDB("ijulienne");
 		//WARNING: Configure with your own data
-        boolean auth = db.authenticate("YOUR_USER", "YOUR_PASSWORD".toCharArray());
+		boolean auth = db.authenticate("YOUR_USER", "YOUR_PASSWORD".toCharArray());
 		if (auth){
 			DBCollection table = db.getCollection("ijulienne");
 			BasicDBObject document = new BasicDBObject();
